@@ -81,7 +81,7 @@ class ChangeTextBehaviorTest2 {
         testButton.click()
 
         val testText1: UiObject = device.findObject(
-            UiSelector().text("0")
+            UiSelector().text("1")
         )
 
         assertTrue(testText1.exists())
