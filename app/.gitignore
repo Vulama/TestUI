@@ -1,0 +1,17 @@
+.idea/*
+!.idea/
+!.idea/codeStyles/
+
+**/build
+**/local.properties
+
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+/caches
+/wrapper
+/daemon
+/native
+*.iml
+.gradle
